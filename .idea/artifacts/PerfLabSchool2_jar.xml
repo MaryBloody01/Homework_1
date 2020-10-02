@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PerfLabSchool2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PerfLabSchool2_jar</output-path>
+    <root id="archive" name="PerfLabSchool2.jar">
+      <element id="module-output" name="PerfLabSchool2" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ru/pflb/dummy-connector/1.0/dummy-connector-1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
